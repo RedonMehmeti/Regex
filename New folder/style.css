@@ -1,0 +1,20 @@
+button{
+    background-color: rgb(135, 161, 255);
+     display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 100px;
+    border-radius: 30px;
+    padding-left: 30px;
+
+  
+}
+input{
+    width: 200px;
+ height: 20px;
+ border-radius: 25px;
+}
+
+p{
+    margin-left: 50px;
+}
